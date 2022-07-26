@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb41ed9-044a-465d-82c4-42e8d74697c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B3_CoreJavaAPIs/RemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicate">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CountDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operators_Statements.Prac2.CountDay" />
       <module name="GHTK-Practices" />
@@ -61,19 +60,6 @@
     </configuration>
     <configuration name="DaysMonthNoEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operators_Statements.Prac1.DaysMonthNoEnum" />
-      <module name="GHTK-Practices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Operators_Statements.Prac1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Operators_Statements.Prac1.DaysMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators_Statements.Prac1.DaysMonth" />
       <module name="GHTK-Practices" />
       <extension name="coverage">
         <pattern>
@@ -111,13 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="GHTK-Practices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.SumPrimeNumber" />
         <item itemvalue="Application.CountDay" />
         <item itemvalue="Application.DaysMonthNoEnum" />
-        <item itemvalue="Application.Operators_Statements.Prac1.DaysMonth" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +128,8 @@
       <workItem from="1655708982990" duration="1103000" />
       <workItem from="1655711453595" duration="6348000" />
       <workItem from="1655948003708" duration="49000" />
-      <workItem from="1656320540483" duration="2015000" />
+      <workItem from="1656320540483" duration="2637000" />
+      <workItem from="1656730078146" duration="1170000" />
     </task>
     <servers />
   </component>
